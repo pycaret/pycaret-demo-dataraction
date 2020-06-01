@@ -10,6 +10,8 @@ LinkedIn : https://www.linkedin.com/company/pycaret/
 
 YouTube : https://www.youtube.com/channel/UCxA1YTYJ9BEeo50lxyI_B3g
 
+Watch PyCaret Official Announcement : https://www.youtube.com/watch?v=scd6KS03NiE
+
 ## Resources
 
 Official Tutorial Notebooks : https://lnkd.in/gd3Ny_4
